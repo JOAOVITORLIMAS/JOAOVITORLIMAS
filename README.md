@@ -2,7 +2,23 @@
 ### Olá 👋, sou a João Vítor Lima, Contador e eterno estudante de programação e tecnologia!
 
  - 📘 Estudando JAVA WEB com SpringBoot 
- - ✂️ Testando consumos de API's
+ - ✂️ Testando Consumos de Microserviços de API's externas...
+
+### My Skills 
+* Languages: Java, Python, .
+* Technologies/Frameworks: Spring Boot.
+* Databases: MySQL.
+* Development Environments/IDEs:Visual Studio Code, Git.
+* Platforms: Windows.
+
+</br>
+<div align="center">
+  <a href="https://github.com/JOAOVITORLIMAS">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JOAOVITORLIMAS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVITORLIMAS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 <div style="display: inline_block"><br>
 
@@ -22,4 +38,7 @@
  <div>
  
  ##
+
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
