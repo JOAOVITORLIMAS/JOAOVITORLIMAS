@@ -1,11 +1,11 @@
 
-### Olá 👋, sou a João Vítor Lima, Contador e eterno estudante de programação e tecnologia!
+### Olá 👋, sou a João Vítor Lima, sou Contador e  estudante de programação e tecnologia! Buscando novos desafios!
 
  - 📘 Estudando JAVA WEB com SpringBoot 
  - ✂️ Testando Consumos de Microserviços de API's externas...
 
 ### My Skills 
-* Languages: Java, Python, .
+* Languages: Java, Python, javaScript
 * Technologies/Frameworks: Spring Boot.
 * Databases: MySQL.
 * Development Environments/IDEs:Visual Studio Code, Git.
