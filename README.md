@@ -1,5 +1,16 @@
 
-### Olá 👋, sou a João Vítor Lima, sou Contador e  estudante de programação e tecnologia em JAVA! Buscando novos desafios!
+### Olá 👋, sou a João Vítor Lima, sou Contador e estudante de programação!
+
+Atualmente, estou me aventurando no mundo da programação e desenvolvimento de software, 
+buscando ser o melhor na minha nova atividade. 
+
+Com perseverança e trabalho árduo, estou determinado a alcançar meu objetivo maior. 
+Estou em busca de novas oportunidades desafiadoras no campo da contabilidade, desenvolvimento de software e inovação em negócios. 
+Se você está procurando um profissional experiente, apaixonado por tecnologia e com habilidades em contabilidade e programação, 
+vamos nos conectar! Estou aberto a oportunidades de trabalho, parcerias e colaborações. Vamos juntos impulsionar o sucesso do seu negócio. 
+
+Entre em contato comigo para explorar possibilidades!
+
 
  - 📘 Estudando JAVA WEB com SpringBoot 
  - ✂️ Testando  API's externas
