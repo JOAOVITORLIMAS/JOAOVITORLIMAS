@@ -12,7 +12,7 @@ vamos nos conectar! Estou aberto a oportunidades de trabalho, parcerias e colabo
 Entre em contato comigo para explorar possibilidades!
 
 
- - 📘 Estudando JAVA WEB com SpringBoot 
+ - 📘 Estudando JAVA WEB com SpringBoot / Dados / machine learnig / usos de API / 
  - ✂️ Testando  API's externas
  - Criando projetos em webservices
 
