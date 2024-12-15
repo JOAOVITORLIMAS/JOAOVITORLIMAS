@@ -17,7 +17,7 @@ Entre em contato comigo para explorar possibilidades!
  - Criando projetos em webservices
 
 ### My Skills 
-* Languages: Java, Python, javaScript
+* Languages: Java, Python, javaScript , SQL
 * Technologies/Frameworks: Spring Boot / Postgres / Docker / 
 * Databases: MySQL. /H2 / Railway 
 * Development Environments/IDEs:Visual Studio Code, Git/ Github
